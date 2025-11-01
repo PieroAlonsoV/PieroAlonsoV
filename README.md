@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello world 
+This is **Piero**: A data analyst with 4 years of experience in the banking industry. <br>
 
-<!--
-**PieroAlonsoV/PieroAlonsoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me:
+👔 [LinkedIn](https://www.linkedin.com/in/piero-alonso-vera-valverde/) <br>
 
-Here are some ideas to get you started:
+## 📚 Work
+- Check my portfolio at [Pieros' portfolio](https://pieroalonsov.github.io/IamPiero/) <br>
+- I use daily: `python`, `Power BI`, `Microsoft Excel`, `SQL`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Repositories
+- Quantitative Prediction at House prices(https://github.com/PieroAlonsoV/houseprices).
+
+## 🌱 I’m currently learning ...
+- Data cloud with AWS.<br>
+
+## More about me
+- ⚡ Passions: Soccer, Gym, and Gaming.<br>
